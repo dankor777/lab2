@@ -1,0 +1,11 @@
+stworzenie kalkulatora kredytowego obliczajacego system stalo ratowy wzorem :
+
+S*q^n * q - 1 / q^n -1 
+
+gdzie:
+
+S - kwota kredytu
+
+q = 1 + lata / 12
+
+n = ilosc rat
